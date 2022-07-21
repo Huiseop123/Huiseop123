@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&height=200&section=header&text=Hello%20World!&desc=I'm%20Huiseop123&&fontAlignY=37&descSize=25&fontSize=70&descAlign=64&descAlignY=57)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&height=200&section=header&text=Hello%20World!&desc=I'm%20Huiseop&&fontAlignY=37&descSize=25&fontSize=70&descAlign=64&descAlignY=57)
 
 안녕하세요.<br>
 Huiseop입니다.<br>
