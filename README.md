@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&height=200&section=header&text=Hello%20World!&desc=I'm%20Huiseop&&fontAlignY=37&descSize=25&fontSize=70&descAlign=64&descAlignY=57)
 
 안녕하세요.<br>
-Huiseop입니다.<br>
-대학교에서는 경제를 전공했습니다. <br>
-현재는 데이터 사이언티스트와 관련한 공부를 하고 있습니다. 
+노희섭입니다.<br>
+데이터로 문제를 해결하고 싶습니다. <br>
 <br><br>
 
 
