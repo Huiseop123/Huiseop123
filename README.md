@@ -3,8 +3,7 @@
 안녕하세요.<br>
 노희섭입니다.<br>
 데이터로 문제를 해결하고 싶습니다. <br>
-<br><br>
-
+<br>
 
 
 <h3> 💪 Skills </h3>
@@ -30,7 +29,6 @@
 <br>
 <h3> 📬Contact </h3>
 <p>
-  <a href="https://velog.io/@bs02010" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="bs02010@naver.com" target="_blank"><img src="https://img.shields.io/badge/bs02010@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 <br>
